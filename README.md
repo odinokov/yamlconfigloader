@@ -25,9 +25,9 @@
 
 ## Usage
 
-    ```bash
-    poetry run python ./example/example_usage.py
-    ```
+```bash
+poetry run python ./example/example_usage.py
+```
 
 ## License
 
