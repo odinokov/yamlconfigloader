@@ -20,7 +20,7 @@
 2. **Install dependencies:**
 
     ```bash
-    poetry install
+    poetry install && poetry shell
     ```
 
 ## Usage
