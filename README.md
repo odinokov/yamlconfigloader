@@ -6,7 +6,7 @@
 
 - Load YAML configuration files.
 - Validate data against a Pydantic schema.
-- Handles both scalar and complex data structures, such as dictionaries and lists.
+- Correctly handle sciencific notation.
 
 ## Installation
 
