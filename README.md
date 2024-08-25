@@ -4,9 +4,9 @@
 
 ## Features
 
-- Load YAML configuration files.
-- Validate data against a Pydantic schema.
-- Correctly handle sciencific notation.
+- Loads YAML configuration files.
+- Validates data against a Pydantic schema.
+- Correctly handles scientific notation.
 
 ## Installation
 
