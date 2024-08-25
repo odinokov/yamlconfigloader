@@ -19,8 +19,6 @@
 
 2. **Install dependencies:**
 
-    Using [Poetry](https://python-poetry.org/):
-
     ```bash
     poetry install
     ```
