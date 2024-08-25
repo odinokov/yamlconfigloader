@@ -31,6 +31,9 @@ config_file_path = os.path.join(script_dir, "config.yaml")
 yaml_loader = YamlConfigLoader()
 try:
     config = yaml_loader.load_and_validate(config_file_path, ConfigSchema)
-    print(config)
+    print("config:", config)
+    print(
+        "config.catboost_params:", config.catboost_params.get("l2_leaf_reg", [None])[0]
+    )
 except ValueError as e:
     print(f"Error: {e}")
