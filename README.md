@@ -1,6 +1,6 @@
 # YamlConfigLoader
 
-`YamlConfigLoader` is a Python utility for loading and validating YAML configuration files using Pydantic.
+`YamlConfigLoader` is a Python utility for loading and validating YAML configuration files.
 
 ## Features
 
